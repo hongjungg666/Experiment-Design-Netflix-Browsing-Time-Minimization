@@ -11,7 +11,7 @@ Research shows that people may feel it becomes more complex and take longer to m
 Check it out!https://github.com/hongjungg666/Multivariate-Tests_Experimentation_NETFLIX-HOMEPAGE-TOP-PICKS-OPTIMIZATION/blob/master/Netflix_Project.pdf
 
 ## Data 
-Source: Coming from the simulator of our course Professor after we setting different factor levels
+Source: Coming from the simulator of our course professor after we set different factor levels
 
 ## Code
 https://github.com/hongjungg666/Multivariate-Tests_Experimentation_NETFLIX-HOMEPAGE-TOP-PICKS-OPTIMIZATION/blob/master/experiments_pipeline_v5.ipynb
